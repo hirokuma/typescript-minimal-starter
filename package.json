@@ -1,6 +1,7 @@
 {
   "main": "dist/index.js",
   "private": true,
+  "type": "module",
   "devDependencies": {
     "@types/node": "^24.2.0",
     "@typescript-eslint/parser": "^8.38.0",
